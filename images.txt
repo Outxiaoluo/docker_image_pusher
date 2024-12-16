@@ -1,2 +1,1 @@
-nginx
-openjdk:11
+openjdk:11-jdk
